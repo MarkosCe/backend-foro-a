@@ -1,4 +1,6 @@
-package com.alura.modelo;
+package com.alura.foro.modelo;
+
+import com.alura.foro.domain.topico.Topico;
 
 import java.time.LocalDateTime;
 
